@@ -1,5 +1,5 @@
 # Calculator_app_react-native
-## this app is made with react native##
+## This app is made with react-native
  It has a good user interface with a dark and light mode which can be controlled by a switch.
  
  it uses state to control switching between light and dark mode
